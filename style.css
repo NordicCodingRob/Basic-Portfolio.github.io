@@ -20,8 +20,18 @@ article {
 img {
     align-content: center;
 }
-p {
+article {
     text-align: center;
     color: black;
     background-color: khaki;
+}
+div.article {
+    widows: 75px;
+    border: 2px solid gray;
+    border-style: groove;
+}
+h1 {
+    text-align: center;
+    text-shadow: dodgerblue;
+    border-style: double;
 }
